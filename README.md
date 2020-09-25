@@ -7,8 +7,8 @@ A simple testing environment to try out certain features for the following:
 * Netlify | [Docs](https://docs.netlify.com/#get-started)
 
 Other applications used are:
-[VueJS](https://vuejs.org/v2/guide/)
-[GitKraken](https://support.gitkraken.com/)
+* [VueJS](https://vuejs.org/v2/guide/)
+* [GitKraken](https://support.gitkraken.com/)
 
 ## Goals
 Test out features of Prismic CMS and its API with use in a Nuxt app.
