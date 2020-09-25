@@ -1,4 +1,4 @@
-#NetlifyTest
+# NetlifyTest
 
 A simple testing environment to try out certain features for the following:
 
@@ -10,7 +10,7 @@ Other applications used are:
 [VueJS](https://vuejs.org/v2/guide/)
 [GitKraken](https://support.gitkraken.com/)
 
-##Goals
+## Goals
 Test out features of Prismic CMS and its API with use in a Nuxt app.
 Custom post types in Prismic will need to be made to accomidated additional
 data for business type static websites. 
